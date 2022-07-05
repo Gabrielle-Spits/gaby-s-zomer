@@ -1,0 +1,290 @@
+// styling reserveren
+
+// start pagina reserveren
+.hoofd-start-reserveren
+{
+    padding-top: 2.5%;
+    padding-bottom: 1.25%;
+}
+.banner-start-reserveren
+{
+    width: 100%;
+    height: fit-content ;
+    border: 5px solid #333;
+}
+.header-start-reserveren 
+{
+    padding-left  : 42%;
+    padding-top: 1.25%;
+    // margin-top    : 3%;
+}
+
+.header-streep-reserveren {
+    width       : 70%;
+    padding-left: 25%;
+}
+
+.content-start-reserveren
+{
+    padding-left: 2.5%;
+    padding-right: 5%;
+    padding-top: 1.25%;
+}
+
+.col-reserveren-6
+{
+    width: 50%;
+}
+
+.titels-start-reserveren
+{
+  border: #333 1px solid;
+  color: white;
+  background-color: #ff8000;
+  font-size: 175%; 
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1.25%;
+}
+
+.p_welkom-start-reserveren {
+    display: inline-block;
+    width  : 100%;
+    text-align: center;
+}
+
+.button-menukaart-positie{
+    padding-left: 30%;
+    padding-top: 2.5%;
+}
+.button-menukaart {
+    width           : 10rem;
+    height          : 3rem;
+    background-color: white;
+    color           : #333;
+    border          : #333 1px solid;
+    font-family     : 'Libre Baskerville', serif;
+    text-align      : center;
+    font-size       : 25px;
+    padding-top     : 1%;
+    text-decoration : none;
+  
+}
+
+.button-menukaart:hover
+{
+    background-color: #ff8000;
+    color: white;
+}
+
+
+
+.buttons-reserveren-hoogte
+{
+    padding-top   : 5%;
+    width: 100%;
+}
+
+.lunch-button-uitlijning
+{
+    width  : 50%;
+    text-align: center;
+}
+
+.button-lunch_diner 
+{
+    width           : 100%;
+    height          : 3rem;
+    background-color: white;
+    color           : #333;
+    border          : #333 1px solid;
+    font-family     : 'Libre Baskerville', serif;
+    text-align      : center;
+    font-size       : 25px;
+    padding-top     : 1%;
+    text-decoration : none;
+  
+}
+
+.button-lunch_diner:hover
+{
+    background-color: #ff8000;
+    color: white;
+}
+
+.hoofd-tekst-titel-reserveren
+{
+    padding-bottom: 5%;
+}
+
+.col-button-reserveren-uitlijning
+{
+    width: 100%;
+    padding-bottom: 5%;
+}
+
+.col-buttons-reserveren
+{
+    width: 50%;
+}
+
+.foto-start-reserveren
+{
+    width: 100%;
+    height: 50%;
+    border: 5px solid #333;
+    padding: 0%;
+}
+
+
+
+// lunch reserveren design
+.hoofd-reserveren-lunch
+{
+    padding-top: 2%;
+    padding-bottom: 1.25%;
+}
+
+.banner-reserveren-lunch
+{
+    width: 100%;
+    height: fit-content ;
+    border: 5px solid #333;
+}
+
+.header-reserveren-lunch
+{
+    padding-top: 1.25%;
+    text-align: center;
+}
+
+.content-reserveren-lunch
+{
+    padding-left: 2.5%;
+}
+.lunch-reservation-foto
+{
+    width: 100%;
+    height: 50%;
+    padding-bottom: 5%;
+}
+
+
+.plaatsing-form-reservation1
+{
+    padding-left: 5%;
+}
+.omlijning-form-reserveren-1 {
+    text-align: center;
+    border        : solid 1px;
+    width         : 100%;
+    padding: 6%;
+
+}
+
+.omlijning-reserveren-1
+{
+    text-align: center;
+    border:   #333;
+    padding-top: 5%;
+}
+
+
+.reservation-uitlijning-hoogte
+{
+    padding-top: 5%;
+}
+.label-klantgegevens
+{
+    padding-left: 5%;
+}
+.reservation-uitlijning-datum
+{
+    padding-left: 20%;
+    padding-top: 1.25%;
+}
+
+.date-reservation {
+    color           : #e3e3e3;
+    background-color: #ff8000;
+    
+}
+
+.reservation-uitlijning-time
+{
+    padding-left: 37.5%;
+    padding-top: 1.25%;
+}
+
+.time-reservation {
+    font-size   : 100%;
+    color       : #e3e3e3;
+    background-color: #ff8000;
+    padding-left: 2.5%;
+}
+
+.reservation-uitlijning-persons
+{
+    padding-left: 45%;
+    padding-top: 1.25%;
+}
+.persons-reservation {
+    font-size   : 100%;
+    color       : #e3e3e3;
+    background-color: #ff8000;
+    padding-left: 2.5%;
+}
+
+.input-klantgegevens
+{
+    background-color: #ff8000;
+    color: #e3e3e3;
+    text-align: center;
+    font-size: 100%;
+    width: 100%;
+}
+
+.input-klantgegevens::placeholder
+{
+    background-color: #ff8000;
+    color: #e3e3e3;
+    text-align: center;
+}
+
+.uitlijning-input-gegevens
+{
+    padding-left: 10%;
+    padding-bottom: 1.25%;
+}
+.button-uitlijning-klantgegevens
+{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+
+}
+
+.button-klantgegevens
+{
+    width           : 100%;
+    background-color: white;
+    color           : #333;
+    border          : #333 1px solid;
+    font-family     : 'Libre Baskerville', serif;
+    text-align      : center;
+    font-size       : 100%;
+    padding-top     : 2.5%;
+    padding-bottom: 2.5%;
+    text-decoration : none;
+}
+
+.button-klantgegevens:hover
+{
+    color           : #e3e3e3;
+    background-color: #ff8000;
+}
+
+
+
+
+
